@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/buker-majhe-aagun/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Buker Majhe Aagun](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-majhe-aagun/) |
+| **Get License** | [Request Licensing for Buker Majhe Aagun](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/buker-majhe-aagun/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> বুকের মাঝে আগুন জ্বলে তুমি এলে কাছে.. তুমি এলে কাছে..
+> অচিন এক ঘোরের মাঝে পাগল এ মন নাচে.. পাগল এ মন নাচে..
+> মাতাল করা তোমার ছোঁয়া আমায় শুধু ছলে.. আমায় শুধু ছলে..
+> এই বুকের তৃষ্ণাতে আজ প্রেমের আগুন জ্বলে.. প্রেমের আগুন জ্বলে..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c41cdcd8abe4da4f8a62e77dc786621b2548df104d4ed983e65c691a1e00c5a9` |
 | **Timestamp** | May 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
